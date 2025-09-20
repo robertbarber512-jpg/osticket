@@ -18,15 +18,12 @@ This tutorial outlines the post installation setup of the open-source help desk 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
 - osTicket Installed
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+
 
 <h2> Steps</h2>
 
